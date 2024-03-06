@@ -1,0 +1,28 @@
+#Basic funcition approach
+#completes a task
+#def gotopole():
+#    repeat 6:
+#        move()
+#        
+#gotopole()
+
+#data input approach
+#completes a task based on unput of variable data
+#def go_to_goal(distance,speed):
+#    think(speed)
+#    for x in range(distance):
+#        move()
+#
+#go_to_goal(6,50)
+
+#return_approach
+#does a task and returns data out if the function:
+#def steps_to_take():
+#    return 6
+#
+#def go_to_goal(distance):
+#    for x in range(distance):
+#        move()
+#        
+#steps = steps_to_take()
+#go_to_goal(steps)
